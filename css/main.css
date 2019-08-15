@@ -1,0 +1,139 @@
+body {
+    color: #2b2b2b;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f2f2f2;
+}
+
+#header, #work, #about, #contact {
+     height: 600px;
+}
+
+.full-width {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.half-width {
+    float: left;
+    width: 600px;
+}
+
+.third-width {
+    float: left;
+    width: 400px;
+}
+
+/***Header are begins now with desk image and my introduction***/
+
+img.desk {
+    background: url('../images-icons/hero-image.jpg');
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+
+#header h1 { 
+    background-color: #ffe6e6;
+    color: black;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    margin: 12px 0 12px 0;
+    padding: 10px 0 10px 8px;
+    text-align: center;
+}
+
+/***End of Header area and beginnig of work done area with jubilee austen webpage, etc***/
+
+#work {
+    height: 600px;
+    width: 800px;
+    margin: 30px;
+    padding: 20px;
+}
+
+.align-left-one {
+    width: 40%;
+    height: 40%;
+    float: left;
+    margin: 30px;
+    padding: 27px;    
+}
+
+.jubilee{
+    font-size: 25px;
+    float: right;
+    margin-top: 85px;
+    margin-right: 280px;
+}
+
+.align-left-two {
+    float: left;
+    height: 40%;
+    margin: 30px;
+    padding: 27px;
+    width: 40%;
+}
+
+.rogue {
+    font-size: 25px;
+    float: right;
+    margin-top: 85px;
+    margin-right: 100px;
+}
+
+.align-left-three {
+    float: left;
+    height: 40%;
+    margin: 30px;
+    padding: 27px;
+    width: 40%;
+}
+
+.holstee {
+    font-size: 25px;
+    float: right;
+    margin-top: 85px;
+    margin-right: 300px;
+}
+
+#about {
+    height: 600px;
+    width: 100%;
+}
+
+
+.about-me {
+    clear: left;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    line-height: 1.8em;
+    margin: 5px 230px;
+    margin-top: 300px;
+    width: 20%;
+}
+    
+.coffeeshop {
+    float: left;
+    margin-top: 30px;
+    width: 40%;
+}
+
+#contact {
+    background-color: rgb(162, 192, 164);
+    clear: both;
+    height: 180px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+#contact.full-width {
+    padding: 200px;
+}
+
+footer {
+    text-align: center;
+    text-decoration: underline;
+}
