@@ -52,10 +52,10 @@ img.desk {
 }
 
 .align-left-one {
-    width: 40%;
+    width: 41%;
     height: 40%;
     float: left;
-    margin: 30px;
+    margin: 23px;
     padding: 27px;    
 }
 
@@ -106,23 +106,22 @@ img.desk {
     clear: left;
     float: left;
     font-family: 'Roboto', sans-serif;
-    font-size: 22px;
+    font-size: 25px;
     line-height: 1.8em;
-    margin: 5px 230px;
-    margin-top: 300px;
+    margin: 150px 230px;
     width: 20%;
 }
     
 .coffeeshop {
     float: left;
     margin-top: 30px;
-    width: 40%;
+    width: 36%;
 }
 
 #contact {
     background-color: rgb(162, 192, 164);
     clear: both;
-    height: 180px;
+    height: 178px;
     margin-top: 10px;
     padding: 10px;
     text-align: center;
